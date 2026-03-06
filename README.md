@@ -28,7 +28,7 @@ built to identify key drivers of loan default and assess portfolio risk exposure
 - Power BI dashboard hosted on Maven Analytics (link below)
 
 ## Dashboard
-[https://app.powerbi.com/view?r=eyJrIjoiZjlkMjJkMGQtMWY1YS00MGRkLWI0YWQtNTkwYTZlYzY3OGY1IiwidCI6ImI2NTIzZTMzLWE1OWQtNGEyZS1hMmRhLWMwZDZlYzBhZDAzMSJ9](#) ← update this link after publishing
+[https://app.powerbi.com/view?r=eyJrIjoiZjlkMjJkMGQtMWY1YS00MGRkLWI0YWQtNTkwYTZlYzY3OGY1IiwidCI6ImI2NTIzZTMzLWE1OWQtNGEyZS1hMmRhLWMwZDZlYzBhZDAzMSJ9](#) ← Click link for Dashboard
 
 ## Data Cleaning Steps
 1. Reduced columns from 150+ to 18 relevant fields
